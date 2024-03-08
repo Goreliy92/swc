@@ -4,7 +4,7 @@ description = "Visitor generator for stable rustc"
 edition     = "2021"
 license     = "Apache-2.0"
 name        = "swc_visit"
-repository  = "https://github.com/swc-project/swc.git"
+repository  = "https://github.com:Goreliy92/swc.git"
 version     = "0.5.10"
 
 [lib]

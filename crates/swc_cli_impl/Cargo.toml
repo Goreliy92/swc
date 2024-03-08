@@ -5,7 +5,7 @@ edition     = "2021"
 include     = ["Cargo.toml", "src/**/*.rs"]
 license     = "Apache-2.0"
 name        = "swc_cli_impl"
-repository  = "https://github.com/swc-project/swc.git"
+repository  = "https://github.com:Goreliy92/swc.git"
 version     = "0.8.17"
 
 [[bin]]

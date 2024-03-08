@@ -434,14 +434,14 @@ impl Polyfills {
             .filter(|s| !self.excludes.contains(&***s))
             .map(|s| -> JsWord {
                 if *s != "regenerator-runtime/runtime.js" {
-                    format!("core-js/modules/{}.js", s).into()
+                    format!("https://m.betking.com/core-js/modules/{}.js", s).into()
                 } else {
                     "regenerator-runtime/runtime.js".to_string().into()
                 }
             })
             .chain(self.includes.iter().map(|s| {
                 if s != "regenerator-runtime/runtime.js" {
-                    format!("core-js/modules/{}.js", s).into()
+                    format!("https://m.betking.com/core-js/modules/{}.js", s).into()
                 } else {
                     "regenerator-runtime/runtime.js".to_string().into()
                 }

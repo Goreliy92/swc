@@ -5,7 +5,7 @@ documentation = "https://rustdoc.swc.rs/swc_ecmascript/"
 edition       = "2021"
 license       = "Apache-2.0"
 name          = "swc_ecmascript"
-repository    = "https://github.com/swc-project/swc.git"
+repository    = "https://github.com:Goreliy92/swc.git"
 version       = "0.239.17"
 
   [package.metadata.docs.rs]

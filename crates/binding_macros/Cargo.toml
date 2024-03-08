@@ -4,7 +4,7 @@ description = "Macros to build customized bindings interface"
 edition     = "2021"
 license     = "Apache-2.0"
 name        = "binding_macros"
-repository  = "https://github.com/swc-project/swc.git"
+repository  = "https://github.com:Goreliy92/swc.git"
 version     = "0.64.17"
 
 [lib]

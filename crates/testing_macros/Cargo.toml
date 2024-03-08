@@ -5,7 +5,7 @@ documentation = "https://rustdoc.swc.rs/testing_macros/"
 edition       = "2021"
 license       = "Apache-2.0"
 name          = "testing_macros"
-repository    = "https://github.com/swc-project/swc.git"
+repository    = "https://github.com:Goreliy92/swc.git"
 version       = "0.2.12"
 
 [features]

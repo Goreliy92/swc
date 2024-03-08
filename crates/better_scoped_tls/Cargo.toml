@@ -5,7 +5,7 @@ documentation = "https://rustdoc.swc.rs/better_scoped_tls/"
 edition = "2021"
 license = "Apache-2.0"
 name = "better_scoped_tls"
-repository = "https://github.com/swc-project/swc.git"
+repository = "https://github.com:Goreliy92/swc.git"
 version = "0.1.1"
 
 [lib]

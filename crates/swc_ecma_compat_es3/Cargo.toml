@@ -6,7 +6,7 @@ edition       = "2021"
 include       = ["Cargo.toml", "src/**/*.rs"]
 license       = "Apache-2.0"
 name          = "swc_ecma_compat_es3"
-repository    = "https://github.com/swc-project/swc.git"
+repository    = "https://github.com:Goreliy92/swc.git"
 version       = "0.4.13"
 
 
